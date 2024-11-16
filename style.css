@@ -25,3 +25,7 @@ p > a:first-of-type {
 body {
   overflow: hidden;
 }
+.name{
+  align-items: center;
+  color: white;
+}
